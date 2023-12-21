@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pwd.h": "c",
+        "user.h": "c"
+    }
+}
